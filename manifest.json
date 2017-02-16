@@ -10,7 +10,7 @@
   "gcm_sender_id": "<YOUR PROJECT NO>",
     "icons": [
     {
-      "src": "https://www.progresshive.io/resource/image/addToHome/launcher-icon-4x.png",
+      "src": "assets/logoicon-192x192",
       "sizes": "192x192",
       "type": "image/png"
     }
