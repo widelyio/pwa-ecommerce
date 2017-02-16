@@ -10,7 +10,7 @@
   "gcm_sender_id": "<YOUR PROJECT NO>",
     "icons": [
     {
-      "src": "assets/logoicon-192x192",
+      "src": "assets/logoicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
