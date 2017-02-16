@@ -1,14 +1,14 @@
 {
   "name": "eShopper",
   "short_name": "Shopper",
-  "description": "",
+  "description": "Shopper",
   "orientation": "portrait",
-  "start_url": "/shopper/",
+  "start_url": "/pwa-ecommerce/",
   "display": "standalone",
   "background_color": "#fafafa",
   "theme_color": "#fafafa",
-  "gcm_sender_id": "<Your FCM Sender ID>",
-  "icons": [
+  "gcm_sender_id": "<YOUR PROJECT NO>",
+    "icons": [
     {
       "src": "https://www.progresshive.io/resource/image/addToHome/launcher-icon-4x.png",
       "sizes": "192x192",
